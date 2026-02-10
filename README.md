@@ -58,7 +58,7 @@ Aplicação web de gerenciamento de produtos desenvolvida com Next.js e TypeScri
 2. Navigate to the project directory:
 
    ```
-   cd product-management-app
+   cd thera-consulting-app
    ```
 
 3. Install dependencies:
